@@ -6,7 +6,11 @@
 
 
 ## Big Query:
- - tutorial: https://codelabs.developers.google.com/codelabs/cp100-big-query/#0
+https://codelabs.developers.google.com/codelabs/cp100-big-query/#0
+
+
+## Create ML Dataset with Big Query
+https://codelabs.developers.google.com/codelabs/cpb100-bigquery-dataset/#0
 
 
 ## other useful websites:
