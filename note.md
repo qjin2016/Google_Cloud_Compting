@@ -5,6 +5,12 @@
 ```
 
 
+### list compute instances
+```
+    gcloud compute instances list
+```
+
+
 ## Big Query:
 https://codelabs.developers.google.com/codelabs/cp100-big-query/#0
 
